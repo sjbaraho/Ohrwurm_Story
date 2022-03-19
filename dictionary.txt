@@ -22,3 +22,5 @@ Doener               doner kebab?
 Apfelkuchen          apple cake
 Schloss              lock
 Eltz                 name of a castle in Germany
+
+Ohrwurm				 catchy tune or earworm
