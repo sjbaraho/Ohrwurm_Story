@@ -24,3 +24,4 @@ Schloss              lock
 Eltz                 name of a castle in Germany
 
 Ohrwurm				 catchy tune or earworm
+Torschlusspanik      last minute panic
